@@ -31,3 +31,16 @@ Key Deliverables:
 -Trained ML model for comment prediction
 -Streamlit web interface for input & prediction
 -Detailed project report and presentation
+
+
+1️⃣ Install Streamlit
+Open your terminal or command prompt and install Streamlit:
+pip install streamlit
+
+2️⃣ Navigate to the Project Directory
+Move to the folder where the Streamlit application file is located:
+cd path/to/your/project
+
+3️⃣ Run the Application
+Start the Streamlit app using the following command:
+streamlit run tiktok_app_py.py
