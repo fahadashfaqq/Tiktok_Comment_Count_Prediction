@@ -44,3 +44,6 @@ cd path/to/your/project
 3️⃣ Run the Application
 Start the Streamlit app using the following command:
 streamlit run tiktok_app_py.py
+
+Download model from: 
+https://drive.google.com/file/d/1V6so_sCuljscVg1VMlmcGPJU_Hrr7pe0/view?usp=sharing
